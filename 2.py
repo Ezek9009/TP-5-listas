@@ -9,4 +9,5 @@ indexing con números negativos!
 #se crea una lista con 5 elementos
 mi_lista = ("hola mundo", 1, 2.0, True, False)
 
+#se muestra en pantalla el penultimo elemento
 print(mi_lista[3])
